@@ -12,10 +12,10 @@ import java.util.Random;
 /**
  * Transmitter program generates 500 bytes of random and transmits it. 
  * This program uses Java's UDP sockets (classes DatagramPacket and DatagramSocket and their methods)
- * and provides a reliable data transfer functionality on the top of UDP’s unreliable communication 
+ * and provides a reliable data transfer functionality on the top of UDPâ€™s unreliable communication 
  * services by implementing a data transfer protocol
  * 
- * @author Group 13 {Navanitha Rao(114203236), Sandeep R Panuganti(114440747)} 
+ * @author Sandeep Reddy
  * @since 2015-11-28
  */
 public class Transmitter {
