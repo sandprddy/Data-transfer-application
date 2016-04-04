@@ -5,7 +5,7 @@ import java.security.SecureRandom;
 /**
  * This program generates 128 bits secret key which is distributed to Transmitter and receiver
  * 
- * @author Group 13 {Navanitha Rao(114203236), Sandeep R Panuganti(114440747)} 
+ * @author Sandeep Reddy
  * @since 2015-11-28
  */
 public class SecretKeyGenerator {
