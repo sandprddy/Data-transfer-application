@@ -4,7 +4,7 @@
  * Secret Key is generated randomly and fixed in this program which is used by Transmitter and receiver
  * Initial sequence is kept as 0
  * 
- * @author Group 13 {Navanitha Rao(114203236), Sandeep R Panuganti(114440747)} 
+ * @author Sandeep Reddy
  * @since 2015-11-28
  */
 public class Helper {
